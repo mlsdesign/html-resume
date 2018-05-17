@@ -53,7 +53,7 @@ li{
   float: left;
   width: var(--main-width);
   padding: 0.25in 0.25in 0 0.25in;
-  font-size: 7pt;
+  font-size: 8.5pt;
 }
 
 #sidebar{
@@ -164,7 +164,7 @@ li{
   flex: 0 0 var(--date-block-width);
   padding-top: calc(var(--row-blocks-padding-top) + 2.5pt) !important;
   padding-right: var(--decorator-horizontal-margin);
-  font-size: 7pt;
+  font-size: 8pt;
   text-align: right;
   line-height: 1;
 }
@@ -240,7 +240,7 @@ li{
 }
 
 .details h3{
-  font-size: 9pt;
+  font-size: 10.5pt;
 }
 
 .main-block:not(.concise) .details div{
@@ -259,7 +259,7 @@ li{
 
 .details .place{
   float: left;
-  font-size: 7.5pt;
+  font-size: 8.5pt;
 }
 
 .details .location{
