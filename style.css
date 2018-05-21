@@ -333,7 +333,7 @@ li{
   padding-left: 0;
   font-family: 'Source Code Pro', monospace;
   font-weight: 400;
-  line-height: 1.75;
+  line-height: 2.5;
 }
 
 #contact li > i{
@@ -341,8 +341,17 @@ li{
   text-align: right;
 }
 
+.info-new-line1 {
+    line-height: .1;
+}
+
+.info-new-line2 {
+   margin-top: -1.5vh
+}
+
 #skills{
   line-height: 1.5;
+    margin-top: 3vh;
 }
 
 #skills ul{
